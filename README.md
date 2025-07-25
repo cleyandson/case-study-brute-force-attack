@@ -61,5 +61,5 @@ This project highlights the following essential cybersecurity skills:
 
 ## Contact
 
-* **LinkedIn:** [Cleyandson Fragoso](https://www.linkedin.com/in/your-profile/)
+* **LinkedIn:** [Cleyandson Fragoso](https://www.linkedin.com/in/cleyandson-fragoso/)
 * **Email:** cleyandsontech@gmail.com
