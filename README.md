@@ -1,5 +1,9 @@
 # Security Incident Analysis: Brute-Force Attack and Malicious Redirection
 
+<div align="right">
+<a href="./README-PT.md">Ver em Português 🇧🇷</a>
+</div>
+
 ## Project Overview
 
 A practical case study developed during the [Google Cybersecurity Professional Certificate](https://www.coursera.org/google-certificates/cybersecurity-certificate), focused on analyzing a simulated security incident. This project's objective was to investigate a security alert, analyze network traffic logs (`tcpdump`), document the findings in a technical report, and propose effective mitigation measures to prevent future attacks.
