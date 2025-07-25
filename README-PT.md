@@ -1,5 +1,9 @@
 # Análise de Incidente de Segurança: Ataque de Força Bruta e Redirecionamento Malicioso
 
+<div align="right">
+<a href="./README.md">Read in English 🇺🇸</a>
+</div>
+
 ## Visão Geral do Projeto
 
 Este projeto é um estudo de caso prático do [Google Cybersecurity Professional Certificate](https://www.coursera.org/google-certificates/cybersecurity-certificate), demonstrando o processo de ponta a ponta na resposta a um incidente de segurança. O cenário envolveu a análise de tráfego de rede (`tcpdump`) para identificar uma ameaça, a documentação dos achados em um relatório formal e a recomendação de controles de segurança profissionais para prevenir a reincidência.
